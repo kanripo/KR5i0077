@@ -1,31 +1,3 @@
-#+TITLE: 三寶萬靈法懺 / CK-KZ
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 17:57:30.589767
-* 版本
- |     CK-KZ|【重刊道藏輯要】|
- |      YP-C|【原版道藏輯要】|
-目次
- - [[file:KR5i0077_001.txt][三寶萬靈法懺 1]]
- - [[file:KR5i0077_002.txt][三寶萬靈法懺 2]]
- - [[file:KR5i0077_003.txt][三寶萬靈法懺 3]]
- - [[file:KR5i0077_004.txt][三寶萬靈法懺 4]]
- - [[file:KR5i0077_005.txt][三寶萬靈法懺 5]]
- - [[file:KR5i0077_006.txt][三寶萬靈法懺 6]]
- - [[file:KR5i0077_007.txt][三寶萬靈法懺 7]]
- - [[file:KR5i0077_008.txt][三寶萬靈法懺 8]]
- - [[file:KR5i0077_009.txt][三寶萬靈法懺 9]]
- - [[file:KR5i0077_010.txt][三寶萬靈法懺 10]]
- - [[file:KR5i0077_011.txt][三寶萬靈法懺 11]]
- - [[file:KR5i0077_012.txt][三寶萬靈法懺 12]]
- - [[file:KR5i0077_013.txt][三寶萬靈法懺 13]]
- - [[file:KR5i0077_014.txt][三寶萬靈法懺 14]]
- - [[file:KR5i0077_015.txt][三寶萬靈法懺 15]]
- - [[file:KR5i0077_016.txt][三寶萬靈法懺 16]]
- - [[file:KR5i0077_017.txt][三寶萬靈法懺 17]]
- - [[file:KR5i0077_018.txt][三寶萬靈法懺 18]]
- - [[file:KR5i0077_019.txt][三寶萬靈法懺 19]]
- - [[file:KR5i0077_020.txt][三寶萬靈法懺 20]]
- - [[file:KR5i0077_021.txt][三寶萬靈法懺 21]]
- - [[file:KR5i0077_022.txt][三寶萬靈法懺 22]]
- - [[file:KR5i0077_023.txt][三寶萬靈法懺 23]]
- - [[file:KR5i0077_024.txt][三寶萬靈法懺 24]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
